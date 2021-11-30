@@ -1,3 +1,4 @@
+package Collections;
 import java.util.LinkedList;
 public class LinkedlistDemo {
     public static void main(String[] args)

@@ -1,4 +1,4 @@
-public class whoLikesIt {
+public class Solution {
     public static String whoLikesIt(String... names) {
         if(names.length == 0){
             return "no one likes this";
