@@ -8,7 +8,7 @@ public class Password {
 
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
-…           try {
+          try {
             try {
                 int x=new Integer(sc.nextInt());
                 int y=new Integer(sc.nextInt());

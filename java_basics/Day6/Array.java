@@ -9,7 +9,7 @@ class ReverseArray<R>{
     }
 }
 
-public class Reverse {
+class Reverse {
 
     public static void main(String[] args) {
 
