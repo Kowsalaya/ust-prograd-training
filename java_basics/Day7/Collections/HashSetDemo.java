@@ -4,7 +4,7 @@ import java.util.ArrayDeque;
 import java.util.HashSet;
 import java.util.List;
 
-public class HashMapDemo {
+public class HashSetDemo {
     public static void main(String[] args) {
         HashSet <Integer> hs= new HashSet<>();
         hs.add(10);
