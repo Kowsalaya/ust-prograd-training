@@ -5,11 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-<<<<<<< HEAD
-    <artifactId>Day_12</artifactId>
-=======
-    <artifactId>Day14</artifactId>
->>>>>>> 8bb7a3ce387849ba453fa59053eba01aafa939c6
+    <artifactId>day18</artifactId>
     <version>1.0-SNAPSHOT</version>
     <build>
         <plugins>
@@ -23,11 +19,6 @@
             </plugin>
         </plugins>
     </build>
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 8bb7a3ce387849ba453fa59053eba01aafa939c6
     <dependencies>
         <dependency>
             <groupId>org.junit.jupiter</groupId>
@@ -36,11 +27,7 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
-<<<<<<< HEAD
-=======
 
-
->>>>>>> 8bb7a3ce387849ba453fa59053eba01aafa939c6
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
