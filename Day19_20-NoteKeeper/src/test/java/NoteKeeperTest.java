@@ -56,5 +56,12 @@ public class NoteKeeperTest {
         noteKeeper.addItemsInTodoList(101, "Task1", "NOT COMPLETED");
         assertEquals(expectedAnswer, noteKeeper.toggleStatus(101));
     }
+//    @Test
+//    public void test1() {
+//        noteKeeper=new NoteKeeper();
+//        noteKeeper.unRemoveItemsFromTodoList()
+//        noteKeeper.toggleStatus(2);
+//        assertEquals(expectedAnswer,noteKeeper.toggleStatus(2));
+//    }
 }
 
